@@ -5,7 +5,7 @@ import pandas as pd
 
 # --- 1. 페이지 기본 설정 ---
 st.set_page_config(
-    page_title="Streamlit 현수의 첫번째 페이지",
+    page_title="현수의 첫번째 페이지",
     page_icon="🔮",
     layout="wide"
 )
